@@ -35,7 +35,7 @@ public class Display{
         JPanel panel = new JPanel(); // create a panel to contain label
         panel.add(label);// add label to panel
         frame.add(panel); // add panel(this time with an image because label has the image) to JFrame
-        frame.setVisible(true);
+        frame.setVisible(true); 
     }
 }
     
